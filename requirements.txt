@@ -1,0 +1,3 @@
+streamlit
+streamlit-option-menu
+# Add any other dependencies your app uses here
